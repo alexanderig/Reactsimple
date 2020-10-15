@@ -1,0 +1,14 @@
+article{
+    border: 1px solid violet;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+
+article h1{
+    color: coral;
+}
+
+.rate{
+    margin: 10px;
+}
