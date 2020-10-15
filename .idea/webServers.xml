@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c5c5678-2dff-404a-a5ce-6873dcf44869" name="https://github.com/alexanderig/Reactsimple.git" url="https://github.com/alexanderig/Reactsimple.git">
+        <fileTransfer port="0" mountedRoot="D:\AngularWorks\blog-react" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
